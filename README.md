@@ -1,4 +1,3 @@
-[README_Ontwikkelkompas.md](https://github.com/user-attachments/files/21693092/README_Ontwikkelkompas.md)
 
 # Ontwikkelkompas App
 
